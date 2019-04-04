@@ -1,0 +1,9 @@
+C:\Users\renat\source\repos\TextBoxMask\TextBoxMask\obj\Debug\TextBoxMask.csprojAssemblyReference.cache
+C:\Users\renat\source\repos\TextBoxMask\TextBoxMask\obj\Debug\TextBoxMask.Properties.Resources.resources
+C:\Users\renat\source\repos\TextBoxMask\TextBoxMask\obj\Debug\TextBoxMask.csproj.GenerateResource.cache
+C:\Users\renat\source\repos\TextBoxMask\TextBoxMask\obj\Debug\TextBoxMask.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\TextBoxMask\TextBoxMask\bin\Debug\TextBoxMask.exe
+C:\Users\renat\source\repos\TextBoxMask\TextBoxMask\bin\Debug\TextBoxMask.pdb
+C:\Users\renat\source\repos\TextBoxMask\TextBoxMask\obj\Debug\TextBoxMask.exe
+C:\Users\renat\source\repos\TextBoxMask\TextBoxMask\obj\Debug\TextBoxMask.pdb
+C:\Users\renat\source\repos\TextBoxMask\TextBoxMask\obj\Debug\TextBoxMask.Form1.resources
